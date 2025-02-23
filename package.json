@@ -1,8 +1,7 @@
 {
-  "name": "week4_hw",
+  "name": "react-week2",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://yunyayaya.github.io/week4_hw/",
   "type": "module",
   "scripts": {
     "dev": "vite",
